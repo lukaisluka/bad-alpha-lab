@@ -1,0 +1,248 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780494994794,
+  "projectRoot": "/Users/luka/Projects/bad-alpha-lab",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "content": {
+      "path": "content",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1780494994785,
+      "keyFiles": [
+        "manifesto.md"
+      ]
+    },
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 1,
+      "lastAccessed": 1780494994785,
+      "keyFiles": [
+        "strategy-archive-schema.md"
+      ]
+    },
+    "site": {
+      "path": "site",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1780494994786,
+      "keyFiles": [
+        "next-env.d.ts",
+        "next.config.js",
+        "package-lock.json",
+        "package.json",
+        "postcss.config.js"
+      ]
+    },
+    "templates": {
+      "path": "templates",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1780494994786,
+      "keyFiles": [
+        "autopsy-card.md",
+        "negative-alpha-atlas.md",
+        "replication-report.md"
+      ]
+    },
+    "site/data": {
+      "path": "site/data",
+      "purpose": "Data files",
+      "fileCount": 0,
+      "lastAccessed": 1780494994787,
+      "keyFiles": []
+    },
+    "site/node_modules": {
+      "path": "site/node_modules",
+      "purpose": "Dependencies",
+      "fileCount": 1,
+      "lastAccessed": 1780494994787,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "site",
+      "accessCount": 4,
+      "lastAccessed": 1780495268203,
+      "type": "directory"
+    },
+    {
+      "path": "site/src",
+      "accessCount": 3,
+      "lastAccessed": 1780495125599,
+      "type": "directory"
+    },
+    {
+      "path": "site/src/app/page.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780495898032,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/layout.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780495922009,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/page.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780495942576,
+      "type": "file"
+    },
+    {
+      "path": "site/src/components/StrategyAutopsyCard.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780495986055,
+      "type": "file"
+    },
+    {
+      "path": "content/manifesto.md",
+      "accessCount": 2,
+      "lastAccessed": 1780495237689,
+      "type": "file"
+    },
+    {
+      "path": "content/replications/BAL-001-yes-no-arbitrage.md",
+      "accessCount": 2,
+      "lastAccessed": 1780495239092,
+      "type": "file"
+    },
+    {
+      "path": "content/replications/BAL-002-polymarket-anchor.md",
+      "accessCount": 2,
+      "lastAccessed": 1780495240287,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/globals.css",
+      "accessCount": 2,
+      "lastAccessed": 1780495242918,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/arb-checker/page.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780495244993,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/arb-checker/api/route.ts",
+      "accessCount": 2,
+      "lastAccessed": 1780495246118,
+      "type": "file"
+    },
+    {
+      "path": "site/next.config.js",
+      "accessCount": 2,
+      "lastAccessed": 1780495284855,
+      "type": "file"
+    },
+    {
+      "path": "site/tailwind.config.ts",
+      "accessCount": 1,
+      "lastAccessed": 1780495046829,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495072111,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495073254,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/negative-alpha-atlas/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495074417,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/strategy-rescue/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495075715,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/arb-checker",
+      "accessCount": 1,
+      "lastAccessed": 1780495100478,
+      "type": "directory"
+    },
+    {
+      "path": "site/package.json",
+      "accessCount": 1,
+      "lastAccessed": 1780495101411,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/manifesto/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495433859,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495444010,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-001.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495589962,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-002.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495717970,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/tools/arb-checker/ArbCheckerClient.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495817748,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/tools/arb-checker/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780495821705,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

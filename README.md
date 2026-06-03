@@ -2,6 +2,8 @@
 
 **负 Alpha 实验室** — 忠实复刻流行策略，公开它们如何亏钱。
 
+🌐 **[在线网站 → bad-alpha-lab.vercel.app](https://bad-alpha-lab.vercel.app)**
+
 [English](#english) | [中文](#中文)
 
 ---

@@ -19,6 +19,7 @@ const navLinks = [
   { href: '/backtest-mirages', label: '回测诈骗' },
   { href: '/negative-alpha-atlas', label: '负α图鉴' },
   { href: '/strategy-rescue', label: '策略可救吗' },
+  { href: '/tools/arb-checker', label: '工具' },
 ]
 
 export default function RootLayout({

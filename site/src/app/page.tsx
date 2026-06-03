@@ -42,6 +42,7 @@ const sampleAutopsies = [
     primaryCauseOfDeath: '滑点 + 手续费双重侵蚀',
     negativeAlphaRating: 4,
     verdict: '回测盈利，实盘亏损。表面 Edge 全部被交易成本吃掉。',
+    href: '/replications/bal-001',
   },
   {
     name: 'Kalshi 宏观事件套利',
@@ -51,6 +52,7 @@ const sampleAutopsies = [
     primaryCauseOfDeath: '流动性不足导致滑点失控',
     negativeAlphaRating: 3,
     verdict: '理论可行，但订单簿深度不够，实际成交价远劣于信号价。',
+    href: '/replications/bal-002',
   },
   {
     name: '加密货币均值回归',
@@ -60,6 +62,7 @@ const sampleAutopsies = [
     primaryCauseOfDeath: '延迟 + 波动率突变',
     negativeAlphaRating: 5,
     verdict: '经典回测幻觉。参数微调即反转，实盘连续止损。',
+    href: '/replications',
   },
 ]
 
@@ -84,10 +87,20 @@ export default function Home() {
             </p>
 
             {/* Tagline */}
-            <div className="inline-block bg-lab-red/10 border border-lab-red/30 rounded px-4 py-2 mb-8">
+            <div className="inline-block bg-lab-red/10 border border-lab-red/30 rounded px-4 py-2 mb-4">
               <p className="text-lab-red font-semibold text-lg">
                 不卖财富密码，只公开亏钱密码
               </p>
+            </div>
+
+            {/* Manifesto link */}
+            <div className="mb-8">
+              <a
+                href="/manifesto"
+                className="inline-block text-lab-gray hover:text-lab-red transition-colors font-mono text-sm"
+              >
+                阅读品牌宣言 →
+              </a>
             </div>
 
             {/* Core description */}
@@ -152,7 +165,9 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {sampleAutopsies.map((autopsy) => (
-              <StrategyAutopsyCard key={autopsy.name} {...autopsy} />
+              <a key={autopsy.name} href={autopsy.href} className="block">
+                <StrategyAutopsyCard {...autopsy} />
+              </a>
             ))}
           </div>
 
