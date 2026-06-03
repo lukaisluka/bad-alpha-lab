@@ -1,5 +1,3 @@
-<!-- Auto-deploy verified ✅ -->
-
 # Bad Alpha Lab
 
 **负 Alpha 实验室** — 忠实复刻流行策略，公开它们如何亏钱。
