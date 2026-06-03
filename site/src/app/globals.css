@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-lab-black text-white font-sans leading-relaxed min-h-screen;
+  }
+
+  a {
+    @apply text-white no-underline transition-colors duration-200;
+  }
+
+  a:hover {
+    @apply text-lab-red;
+  }
+
+  code, pre {
+    @apply font-mono bg-lab-black rounded;
+  }
+
+  code {
+    @apply px-1.5 py-0.5 text-[0.9em];
+  }
+
+  pre {
+    @apply p-4 overflow-x-auto border border-lab-border;
+  }
+}
+
+@layer components {
+  .lab-card {
+    @apply bg-lab-dark border border-lab-border rounded-lg p-6 transition-colors duration-200;
+  }
+
+  .lab-card:hover {
+    @apply border-lab-red-dim;
+  }
+
+  .autopsy-tag {
+    @apply inline-block bg-lab-red text-white text-xs font-semibold px-2 py-0.5 rounded-sm uppercase tracking-wider;
+  }
+
+  .neg-alpha-star {
+    @apply text-lab-red opacity-30;
+  }
+
+  .neg-alpha-star.active {
+    @apply opacity-100;
+  }
+
+  .section-label {
+    @apply text-lab-muted text-xs font-mono uppercase tracking-widest mb-2;
+  }
+
+  .section-title {
+    @apply text-2xl font-bold mb-6;
+  }
+}
