@@ -88,63 +88,93 @@
   },
   "hotPaths": [
     {
-      "path": "site/src/app/replications/page.tsx",
-      "accessCount": 9,
-      "lastAccessed": 1780551139121,
-      "type": "file"
+      "path": "site/src",
+      "accessCount": 12,
+      "lastAccessed": 1780558458997,
+      "type": "directory"
     },
     {
-      "path": "site/src/app/page.tsx",
-      "accessCount": 6,
-      "lastAccessed": 1780549921030,
+      "path": "site/src/app/replications/page.tsx",
+      "accessCount": 11,
+      "lastAccessed": 1780558721232,
       "type": "file"
     },
     {
       "path": "site/src/app/replications/[slug]/page.tsx",
-      "accessCount": 6,
-      "lastAccessed": 1780549973675,
+      "accessCount": 8,
+      "lastAccessed": 1780558722529,
       "type": "file"
     },
     {
-      "path": "site/src",
-      "accessCount": 5,
-      "lastAccessed": 1780549947432,
-      "type": "directory"
+      "path": "site/src/app/page.tsx",
+      "accessCount": 7,
+      "lastAccessed": 1780558484715,
+      "type": "file"
     },
     {
       "path": "site",
-      "accessCount": 5,
-      "lastAccessed": 1780551169233,
+      "accessCount": 6,
+      "lastAccessed": 1780558435004,
       "type": "directory"
     },
     {
-      "path": "site/src/components/StrategyAutopsyCard.tsx",
-      "accessCount": 4,
-      "lastAccessed": 1780549946332,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/replications/[slug]/bal-001.tsx",
-      "accessCount": 4,
-      "lastAccessed": 1780549974732,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/autopsies/page.tsx",
-      "accessCount": 4,
-      "lastAccessed": 1780551134291,
+      "accessCount": 6,
+      "lastAccessed": 1780558743254,
       "type": "file"
     },
     {
       "path": "site/src/app/layout.tsx",
-      "accessCount": 4,
-      "lastAccessed": 1780551137929,
+      "accessCount": 5,
+      "lastAccessed": 1780558456666,
       "type": "file"
     },
     {
       "path": "site/src/app/globals.css",
+      "accessCount": 5,
+      "lastAccessed": 1780558482860,
+      "type": "file"
+    },
+    {
+      "path": "site/src/components/StrategyAutopsyCard.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1780558483961,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/page.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1780558485777,
+      "type": "file"
+    },
+    {
+      "path": "site/tailwind.config.ts",
       "accessCount": 4,
-      "lastAccessed": 1780551157057,
+      "lastAccessed": 1780558441477,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/page.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780558486704,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/page.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780558744659,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/negative-alpha-atlas/page.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780558914605,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/strategy-rescue/page.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780558943849,
       "type": "file"
     },
     {
@@ -160,15 +190,9 @@
       "type": "directory"
     },
     {
-      "path": "site/tailwind.config.ts",
+      "path": "site/src/app/autopsies/[id]/aut-001.tsx",
       "accessCount": 3,
-      "lastAccessed": 1780551177314,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/backtest-mirages/page.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780551243421,
+      "lastAccessed": 1780558535172,
       "type": "file"
     },
     {
@@ -214,33 +238,33 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/autopsies/[id]/page.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1780551135522,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/autopsies/[id]/aut-001.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1780551136838,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/autopsies/[id]/aut-003.tsx",
       "accessCount": 2,
       "lastAccessed": 1780551156292,
       "type": "file"
     },
     {
-      "path": "site/src/app/negative-alpha-atlas/page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495074417,
+      "path": "site/src/app/backtest-mirages/[id]/page.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780558536584,
       "type": "file"
     },
     {
-      "path": "site/src/app/strategy-rescue/page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495075715,
+      "path": "site/src/app/backtest-mirages/[id]/mir-001.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780558537890,
+      "type": "file"
+    },
+    {
+      "path": "content/negative-alpha-atlas/atlas-entries.md",
+      "accessCount": 2,
+      "lastAccessed": 1780558719122,
+      "type": "file"
+    },
+    {
+      "path": "content/strategy-rescue/rescue-reports.md",
+      "accessCount": 2,
+      "lastAccessed": 1780558720235,
       "type": "file"
     },
     {
@@ -328,12 +352,6 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/backtest-mirages/[id]/mir-001.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780551347748,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/backtest-mirages/[id]/mir-002.tsx",
       "accessCount": 1,
       "lastAccessed": 1780551441490,
@@ -358,10 +376,16 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/backtest-mirages/[id]/page.tsx",
+      "path": "site/src/app",
       "accessCount": 1,
-      "lastAccessed": 1780551756779,
-      "type": "file"
+      "lastAccessed": 1780558460051,
+      "type": "directory"
+    },
+    {
+      "path": "site/src/app/replications/[slug]",
+      "accessCount": 1,
+      "lastAccessed": 1780558500864,
+      "type": "directory"
     }
   ],
   "userDirectives": []
