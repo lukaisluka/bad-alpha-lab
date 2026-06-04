@@ -14,6 +14,13 @@ export default function ReplicationsPage() {
       causeOfDeath: '噪声定价 + 结算规则差异 + 延迟',
       rating: 3,
     },
+    {
+      slug: 'bal-003',
+      title: '做市商策略：spread capture 的幻觉',
+      subtitle: 'Polymarket 做市商策略',
+      causeOfDeath: 'inventory risk + adverse selection + spread 压缩',
+      rating: 4,
+    },
   ]
 
   return (

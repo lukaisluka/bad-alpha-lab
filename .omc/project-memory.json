@@ -88,6 +88,18 @@
   },
   "hotPaths": [
     {
+      "path": "site/src/app/replications/page.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1780548696198,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/page.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1780548707963,
+      "type": "file"
+    },
+    {
       "path": "site",
       "accessCount": 4,
       "lastAccessed": 1780495268203,
@@ -100,27 +112,21 @@
       "type": "directory"
     },
     {
-      "path": "site/src/app/page.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780495898032,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/layout.tsx",
       "accessCount": 3,
       "lastAccessed": 1780495922009,
       "type": "file"
     },
     {
-      "path": "site/src/app/replications/page.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780495942576,
-      "type": "file"
-    },
-    {
       "path": "site/src/components/StrategyAutopsyCard.tsx",
       "accessCount": 3,
       "lastAccessed": 1780495986055,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/page.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780548688640,
       "type": "file"
     },
     {
@@ -163,6 +169,18 @@
       "path": "site/next.config.js",
       "accessCount": 2,
       "lastAccessed": 1780495284855,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-001.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780547987960,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-002.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780547988874,
       "type": "file"
     },
     {
@@ -214,24 +232,6 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/replications/[slug]/page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495444010,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/replications/[slug]/bal-001.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495589962,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/replications/[slug]/bal-002.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495717970,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/tools/arb-checker/ArbCheckerClient.tsx",
       "accessCount": 1,
       "lastAccessed": 1780495817748,
@@ -241,6 +241,18 @@
       "path": "site/src/app/tools/arb-checker/page.tsx",
       "accessCount": 1,
       "lastAccessed": 1780495821705,
+      "type": "file"
+    },
+    {
+      "path": "content/replications/BAL-003-market-making-full.md",
+      "accessCount": 1,
+      "lastAccessed": 1780547986989,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-003.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780548666231,
       "type": "file"
     }
   ],

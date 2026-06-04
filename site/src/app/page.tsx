@@ -55,14 +55,14 @@ const sampleAutopsies = [
     href: '/replications/bal-002',
   },
   {
-    name: '加密货币均值回归',
-    market: '现货',
-    surfaceEdge: '+15.1% 回测夏普 1.8',
-    replicationFidelity: '91.0%',
-    primaryCauseOfDeath: '延迟 + 波动率突变',
-    negativeAlphaRating: 5,
-    verdict: '经典回测幻觉。参数微调即反转，实盘连续止损。',
-    href: '/replications',
+    name: 'Polymarket 做市商策略',
+    market: '预测市场',
+    surfaceEdge: '+6.8% spread capture 年化',
+    replicationFidelity: '80.0%',
+    primaryCauseOfDeath: 'inventory risk + adverse selection',
+    negativeAlphaRating: 4,
+    verdict: 'Spread 收入确定但有限，库存亏损和逆向选择亏损不确定且致命。Rebate 是补贴不是收入。',
+    href: '/replications/bal-003',
   },
 ]
 
