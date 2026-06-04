@@ -21,6 +21,13 @@ export default function ReplicationsPage() {
       causeOfDeath: 'inventory risk + adverse selection + spread 压缩',
       rating: 4,
     },
+    {
+      slug: 'bal-004',
+      title: '跟单策略：跟着聪明钱走',
+      subtitle: '预测市场跟单/聪明钱策略',
+      causeOfDeath: '幸存者偏差 + 延迟 + 博弈劣势',
+      rating: 4,
+    },
   ]
 
   return (

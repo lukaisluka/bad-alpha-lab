@@ -89,14 +89,20 @@
   "hotPaths": [
     {
       "path": "site/src/app/replications/page.tsx",
-      "accessCount": 5,
-      "lastAccessed": 1780548696198,
+      "accessCount": 7,
+      "lastAccessed": 1780549426291,
       "type": "file"
     },
     {
       "path": "site/src/app/page.tsx",
       "accessCount": 5,
       "lastAccessed": 1780548707963,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/page.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1780549408963,
       "type": "file"
     },
     {
@@ -124,9 +130,15 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/replications/[slug]/page.tsx",
+      "path": "site/src/app/replications/[slug]/bal-001.tsx",
       "accessCount": 3,
-      "lastAccessed": 1780548688640,
+      "lastAccessed": 1780549177325,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-002.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780549178438,
       "type": "file"
     },
     {
@@ -172,15 +184,9 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/replications/[slug]/bal-001.tsx",
+      "path": "site/src/app/replications/[slug]/bal-003.tsx",
       "accessCount": 2,
-      "lastAccessed": 1780547987960,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/replications/[slug]/bal-002.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1780547988874,
+      "lastAccessed": 1780549189858,
       "type": "file"
     },
     {
@@ -250,9 +256,15 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/replications/[slug]/bal-003.tsx",
+      "path": "content/replications/BAL-004-copy-trading-full.md",
       "accessCount": 1,
-      "lastAccessed": 1780548666231,
+      "lastAccessed": 1780549175898,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-004.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780549396994,
       "type": "file"
     }
   ],

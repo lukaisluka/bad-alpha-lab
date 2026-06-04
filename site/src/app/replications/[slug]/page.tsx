@@ -1,11 +1,13 @@
 import BAL001 from './bal-001'
 import BAL002 from './bal-002'
 import BAL003 from './bal-003'
+import BAL004 from './bal-004'
 
 const replications = [
   { slug: 'bal-001', title: 'YES/NO 补数套利', component: BAL001 },
   { slug: 'bal-002', title: 'Polymarket 价格锚定', component: BAL002 },
   { slug: 'bal-003', title: '做市商策略：spread capture 的幻觉', component: BAL003 },
+  { slug: 'bal-004', title: '跟单策略：跟着聪明钱走', component: BAL004 },
 ]
 
 export function generateStaticParams() {
