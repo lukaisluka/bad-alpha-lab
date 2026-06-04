@@ -89,21 +89,27 @@
   "hotPaths": [
     {
       "path": "site/src/app/replications/page.tsx",
-      "accessCount": 7,
-      "lastAccessed": 1780549426291,
+      "accessCount": 8,
+      "lastAccessed": 1780549921881,
       "type": "file"
     },
     {
       "path": "site/src/app/page.tsx",
-      "accessCount": 5,
-      "lastAccessed": 1780548707963,
+      "accessCount": 6,
+      "lastAccessed": 1780549921030,
       "type": "file"
     },
     {
       "path": "site/src/app/replications/[slug]/page.tsx",
-      "accessCount": 5,
-      "lastAccessed": 1780549408963,
+      "accessCount": 6,
+      "lastAccessed": 1780549973675,
       "type": "file"
+    },
+    {
+      "path": "site/src",
+      "accessCount": 5,
+      "lastAccessed": 1780549947432,
+      "type": "directory"
     },
     {
       "path": "site",
@@ -112,10 +118,16 @@
       "type": "directory"
     },
     {
-      "path": "site/src",
-      "accessCount": 3,
-      "lastAccessed": 1780495125599,
-      "type": "directory"
+      "path": "site/src/components/StrategyAutopsyCard.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780549946332,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/replications/[slug]/bal-001.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780549974732,
+      "type": "file"
     },
     {
       "path": "site/src/app/layout.tsx",
@@ -124,21 +136,21 @@
       "type": "file"
     },
     {
-      "path": "site/src/components/StrategyAutopsyCard.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780495986055,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/replications/[slug]/bal-001.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780549177325,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/replications/[slug]/bal-002.tsx",
       "accessCount": 3,
       "lastAccessed": 1780549178438,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/globals.css",
+      "accessCount": 3,
+      "lastAccessed": 1780549964638,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/page.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1780550035556,
       "type": "file"
     },
     {
@@ -157,12 +169,6 @@
       "path": "content/replications/BAL-002-polymarket-anchor.md",
       "accessCount": 2,
       "lastAccessed": 1780495240287,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/globals.css",
-      "accessCount": 2,
-      "lastAccessed": 1780495242918,
       "type": "file"
     },
     {
@@ -191,14 +197,8 @@
     },
     {
       "path": "site/tailwind.config.ts",
-      "accessCount": 1,
-      "lastAccessed": 1780495046829,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/autopsies/page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495072111,
+      "accessCount": 2,
+      "lastAccessed": 1780549966338,
       "type": "file"
     },
     {
@@ -265,6 +265,60 @@
       "path": "site/src/app/replications/[slug]/bal-004.tsx",
       "accessCount": 1,
       "lastAccessed": 1780549396994,
+      "type": "file"
+    },
+    {
+      "path": "content/autopsies/autopsy-reports.md",
+      "accessCount": 1,
+      "lastAccessed": 1780549920271,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 1,
+      "lastAccessed": 1780549922952,
+      "type": "directory"
+    },
+    {
+      "path": "site/src/app/replications",
+      "accessCount": 1,
+      "lastAccessed": 1780549965624,
+      "type": "directory"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-001.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550102766,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-002.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550156865,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-003.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550212411,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-004.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550264649,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-005.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550326789,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780550369322,
       "type": "file"
     }
   ],
