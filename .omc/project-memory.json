@@ -89,8 +89,8 @@
   "hotPaths": [
     {
       "path": "site/src/app/replications/page.tsx",
-      "accessCount": 8,
-      "lastAccessed": 1780549921881,
+      "accessCount": 9,
+      "lastAccessed": 1780551139121,
       "type": "file"
     },
     {
@@ -113,8 +113,8 @@
     },
     {
       "path": "site",
-      "accessCount": 4,
-      "lastAccessed": 1780495268203,
+      "accessCount": 5,
+      "lastAccessed": 1780551169233,
       "type": "directory"
     },
     {
@@ -130,9 +130,21 @@
       "type": "file"
     },
     {
+      "path": "site/src/app/autopsies/page.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1780551134291,
+      "type": "file"
+    },
+    {
       "path": "site/src/app/layout.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1780495922009,
+      "accessCount": 4,
+      "lastAccessed": 1780551137929,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/globals.css",
+      "accessCount": 4,
+      "lastAccessed": 1780551157057,
       "type": "file"
     },
     {
@@ -142,15 +154,21 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/globals.css",
+      "path": "",
       "accessCount": 3,
-      "lastAccessed": 1780549964638,
+      "lastAccessed": 1780551124724,
+      "type": "directory"
+    },
+    {
+      "path": "site/tailwind.config.ts",
+      "accessCount": 3,
+      "lastAccessed": 1780551177314,
       "type": "file"
     },
     {
-      "path": "site/src/app/autopsies/page.tsx",
+      "path": "site/src/app/backtest-mirages/page.tsx",
       "accessCount": 3,
-      "lastAccessed": 1780550035556,
+      "lastAccessed": 1780551243421,
       "type": "file"
     },
     {
@@ -196,15 +214,21 @@
       "type": "file"
     },
     {
-      "path": "site/tailwind.config.ts",
+      "path": "site/src/app/autopsies/[id]/page.tsx",
       "accessCount": 2,
-      "lastAccessed": 1780549966338,
+      "lastAccessed": 1780551135522,
       "type": "file"
     },
     {
-      "path": "site/src/app/backtest-mirages/page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780495073254,
+      "path": "site/src/app/autopsies/[id]/aut-001.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780551136838,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/autopsies/[id]/aut-003.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1780551156292,
       "type": "file"
     },
     {
@@ -274,33 +298,15 @@
       "type": "file"
     },
     {
-      "path": "",
-      "accessCount": 1,
-      "lastAccessed": 1780549922952,
-      "type": "directory"
-    },
-    {
       "path": "site/src/app/replications",
       "accessCount": 1,
       "lastAccessed": 1780549965624,
       "type": "directory"
     },
     {
-      "path": "site/src/app/autopsies/[id]/aut-001.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780550102766,
-      "type": "file"
-    },
-    {
       "path": "site/src/app/autopsies/[id]/aut-002.tsx",
       "accessCount": 1,
       "lastAccessed": 1780550156865,
-      "type": "file"
-    },
-    {
-      "path": "site/src/app/autopsies/[id]/aut-003.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1780550212411,
       "type": "file"
     },
     {
@@ -316,9 +322,45 @@
       "type": "file"
     },
     {
-      "path": "site/src/app/autopsies/[id]/page.tsx",
+      "path": "content/backtest-mirages/mirage-reports.md",
       "accessCount": 1,
-      "lastAccessed": 1780550369322,
+      "lastAccessed": 1780551122752,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/mir-001.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551347748,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/mir-002.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551441490,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/mir-003.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551529529,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/mir-004.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551616594,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/mir-005.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551710201,
+      "type": "file"
+    },
+    {
+      "path": "site/src/app/backtest-mirages/[id]/page.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1780551756779,
       "type": "file"
     }
   ],
